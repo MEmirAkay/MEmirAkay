@@ -13,7 +13,7 @@
 
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
   <a href="https://nextjs.org" target="_blank"> <img src="https://img.icons8.com/color/48/nextjs.png"> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/nodejs.png"/> </a>
